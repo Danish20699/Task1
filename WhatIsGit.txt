@@ -1,0 +1,7 @@
+Wha is git?
+Ans:Git is a version control 
+system used by developers to track changes in source code over time.
+Version Control: Keeps a history of every change made to the codebase, so you can revert to previous versions if needed.
+Distributed System: Every developer has a full copy of the project history, not just the current version.
+Branching & Merging: You can create branches to work on features or fixes separately from the main codebase, then merge them back in when ready.
+Popular Platforms: Git is the core tool behind platforms like GitHub, GitLab, and Bitbucket.
