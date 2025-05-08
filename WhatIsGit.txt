@@ -11,4 +11,13 @@ Ans:Version control — also known as source control or revision control — is 
 
 With version control, you're able to track and merge branches, audit changes, and enable concurrent work to accelerate software delivery. Version control is the foundation and the stepping stone of DevOps, software architecture, and release patterns, without which an org cannot start. Using version control results in remarkable team productivity and software quality improvements.
 
+
+Why should you use Git?
+Ans:Software development teams prefer Git over other version control systems, like CVS, Mercurial, and Perforce, because Git has the adaptability, speed, and stability required to thrive in fast-paced markets. It's no wonder that 87.2% of developers use Git for version control. If organizations want to quickly meet customer demand and business goals, Git version control is the simplest way to empower developers.
+The benefits of Git and a distributed version control system
+Ans:
+Git has workflow flexibility 
+With Git, teams can work together using various branching strategies that are not as possible in other version control systems. Git's branching capabilities offer users the ability to select a workflow depending on the size of a project or team or unique processes. Some of the most popular Git workflows include centralized, feature branching, trunk-based development, and GitFlow.
+
 Done with current Branch
+
